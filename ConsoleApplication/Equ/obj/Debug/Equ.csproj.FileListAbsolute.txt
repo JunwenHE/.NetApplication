@@ -1,0 +1,13 @@
+c:\users\12207080\documents\visual studio 2015\Projects\Equ\Equ\bin\Debug\Equ.exe.config
+c:\users\12207080\documents\visual studio 2015\Projects\Equ\Equ\bin\Debug\Equ.exe
+c:\users\12207080\documents\visual studio 2015\Projects\Equ\Equ\bin\Debug\Equ.pdb
+c:\users\12207080\documents\visual studio 2015\Projects\Equ\Equ\obj\Debug\Equ.csprojResolveAssemblyReference.cache
+c:\users\12207080\documents\visual studio 2015\Projects\Equ\Equ\obj\Debug\Equ.exe
+c:\users\12207080\documents\visual studio 2015\Projects\Equ\Equ\obj\Debug\Equ.pdb
+C:\Users\12207080\Downloads\Equ\Equ\bin\Debug\Equ.exe.config
+C:\Users\12207080\Downloads\Equ\Equ\obj\Debug\Equ.exe
+C:\Users\12207080\Downloads\Equ\Equ\obj\Debug\Equ.pdb
+C:\Users\12207080\Downloads\Equ\Equ\bin\Debug\Equ.exe
+C:\Users\12207080\Downloads\Equ\Equ\bin\Debug\Equ.pdb
+C:\Users\12207080\Downloads\Equ\Equ\obj\Debug\Equ.csprojResolveAssemblyReference.cache
+C:\Users\12207080\Downloads\Equ\Equ\obj\Debug\Equ.csproj.CoreCompileInputs.cache
